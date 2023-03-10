@@ -47,12 +47,11 @@ export default {
                 class="w-full max-w-md transform overflow-hidden rounded-2xl bg-white p-6 text-left align-middle shadow-xl transition-all">
                 <div class="mt-8">
                     <p class="text-md text-lg text-gray-500 text-center">
-                      The tool will require you to connect a hardware ledger
-                      device to sign transactions. If you do not have a ledger
-                      device, you can use a standard wallet app. 
-
+                      You will need to connect your Ledger device to sign
+                      transactions.
+                      <br/><br/>
                       Please disconnect the device from any other browser tab
-                      that might be using it.
+                      that might be using it before proceeding.
                     </p>
                 </div>
 

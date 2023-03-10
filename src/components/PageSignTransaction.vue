@@ -68,7 +68,7 @@ export default {
     },
 
     onBack() {
-      this.$bus.emit('goto:actionlist');
+      this.$bus.emit('goto:home');
     },
 
     isValid() {

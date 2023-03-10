@@ -4,6 +4,8 @@ The Kin Wallet is a web application that allows users to manage their legacy mul
 
 You don't need to use this tool unless you have an account that was created before the standard derivation path was set. If you are unsure, please contact the Kin Foundation.
 
+https://code-wallet.github.io/mykinwallet/
+
 <img src="https://user-images.githubusercontent.com/623790/224407254-840c4281-8a87-408c-80c7-6388553b2e8a.png" width="80%">
 
 ## Quick Start

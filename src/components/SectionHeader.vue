@@ -35,7 +35,7 @@ const classNames = computed(() => {
 
             <div class="relative flex basis-0 justify-end gap-6 gap-8 flex-grow">
 
-                <a class="group" aria-label="GitHub" href="https://github.com">
+                <a class="group" aria-label="GitHub" href="https://github.com/code-wallet/mykinwallet">
                     <svg aria-hidden="true" viewBox="0 0 16 16"
                         class="h-9 w-9 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300">
                         <path

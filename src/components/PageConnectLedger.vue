@@ -74,6 +74,7 @@ export default {
         <div class="mt-10 flex gap-4 justify-end">
           <Button variant="secondary" @click="onBack()">Go Back</Button>
           <Button v-if="address" variant="primary"  @click="onConfirm()">Continue</Button>
+          <Button v-else variant="primary"  @click="onConfirm()">Skip</Button>
         </div>
       </div>
     </div>
